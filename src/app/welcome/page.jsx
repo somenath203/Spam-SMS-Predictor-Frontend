@@ -10,7 +10,7 @@ import Image from 'next/image';
 const Page = () => {
   return (
 
-    <div className='grid grid-cols-1 lg:grid-cols-2 gap-2 w-2/3 items-center m-auto'>
+    <div className='grid grid-cols-1 lg:grid-cols-2 gap-2 w-4/5 lg:w-2/3 items-center m-auto'>
 
       <div className='flex flex-col gap-4 mt-44 text-center lg:text-left'>
 
