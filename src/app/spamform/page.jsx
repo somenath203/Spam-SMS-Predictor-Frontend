@@ -70,11 +70,11 @@ const Page = () => {
 
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-14 w-4/5 lg:w-2/3 items-center m-auto'>
 
-            <div className='mt-40'>
+            <div className='mt-44'>
                 <Image src={SpamPageImg} alt="welcome page image" className='w-full hidden lg:block h-60' />
             </div>
 
-            <div className='flex flex-col gap-4 lg:mt-40'>
+            <div className='flex flex-col gap-4 lg:mt-44'>
 
                 <p className='text-xl lg:text-2xl text-violet-800 font-semibold'>SMS Spam Prediction</p>
 
